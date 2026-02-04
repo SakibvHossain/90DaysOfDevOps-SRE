@@ -32,7 +32,7 @@
 ---
   
 **4. How you will stay consistent every single day?**
-*  6AM to 12AM - Study DevOps/Cloud
-*  12AM to 6PM - Drawing, Eating, Entertainment, Religious Study
-*  6PM to 9PM - Study DevOps/Cloud
-*  9PM to 4AM - Sleep
+*  **6AM** to **12AM** - Study DevOps/Cloud
+*  **12AM** to **6PM** - Drawing, Eating, Entertainment, Religious Study
+*  **6PM** to **9PM** - Study DevOps/Cloud
+*  **9PM** to **4AM** - Sleep
