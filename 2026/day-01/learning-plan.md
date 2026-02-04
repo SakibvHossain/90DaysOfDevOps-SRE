@@ -13,22 +13,25 @@
 **Per-day Time budget**: 8 to 9 hours  
   
 ---
-**What is your understanding of DevOps and Cloud Engineering?**  
+**1. What is your understanding of DevOps and Cloud Engineering?**  
 *  **DevOps Engineers** automate how your code gets from your laptop to production — safely and repeatedly.  
 *  **Cloud Engineers** build and manage the place where your backend runs.
   
 **Cloud** + **DevOps** = how the app survives in the real world
-  
+
+---
     
-**Why you are starting learning DevOps & Cloud?**  
+**2. Why you are starting learning DevOps & Cloud?**  
 *  To become DevOps & Cloud Expert in the world.
+
+---
   
-  
-**Where do you want to reach?**
+**3. Where do you want to reach?**
 *  I will study 8 to 9 hours per day.
+
+---
   
-  
-**How you will stay consistent every single day?**
+**4. How you will stay consistent every single day?**
 *  6AM to 12AM - Study DevOps/Cloud
 *  12AM to 6PM - Drawing, Eating, Entertainment, Religious Study
 *  6PM to 9PM - Study DevOps/Cloud
